@@ -13,6 +13,7 @@ export const styles = StyleSheet.create({
   icon: {
     fontSize: 20,
     marginRight: 10,
+    marginLeft: 10,
     color: "blue",
   },
   month: {
